@@ -15,12 +15,6 @@ Actuellement en cursus ingénieur, je me spécialise en informatique et je m'aut
     * **ML Basique :** Régression, Classification (via Scikit-learn)
     * **Fondamentaux :** Statistiques & Algorithmique
 * **Outils :** Git, Linux, VS Code
-
----
-
-### Mon activité sur GitHub
-![Stats de Valentin](https://github-readme-stats.vercel.app/api?username=valentinolivierptsi-png&show_icons=true&theme=radical&hide_border=true)
-
 ---
 
 ### Me contacter
