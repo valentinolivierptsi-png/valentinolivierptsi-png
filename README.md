@@ -1,7 +1,7 @@
-# Salut, c'est Valentin-Olivier ! 👋
+# Salut, c'est Valentin Olivier !
 
-### Étudiant en 2ème année d'Informatique au CESI 🎓
-**Passionné par le développement et l'Intelligence Artificielle 🤖**
+### Étudiant en 2ème année d'Informatique au CESI 
+**Passionné par le développement et l'Intelligence Artificielle **
 
 Actuellement en cursus ingénieur, je me spécialise en informatique et je m'auto-forme activement sur les technologies de l'IA et de la Data.
 
