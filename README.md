@@ -24,4 +24,4 @@ Actuellement en cursus ingénieur, je me spécialise en informatique et je m'aut
 ---
 
 ### Me contacter
-* [Mon Profil LinkedIn](www.linkedin.com/in/valentin-olivier-5538b0399)
+* [Mon Profil LinkedIn](https://www.linkedin.com/in/valentin-olivier-5538b0399)
