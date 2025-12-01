@@ -10,7 +10,7 @@ Actuellement en cursus ingénieur, je me spécialise en informatique et je m'aut
 ### Mes Compétences Techniques
 
 * **Langages :** Python, C, C++
-* **IA & Data (Auto-formation - Janvier) :**
+* **IA & Data (Auto-formation ) :**
     * **Analyse de données :** Pandas, NumPy
     * **ML Basique :** Régression, Classification (via Scikit-learn)
     * **Fondamentaux :** Statistiques & Algorithmique
@@ -18,4 +18,4 @@ Actuellement en cursus ingénieur, je me spécialise en informatique et je m'aut
 ---
 
 ### Me contacter
-* [Mon Profil LinkedIn](https://www.linkedin.com/in/valentin-olivier-5538b0399)
+* [Mon Profil LinkedIn](https://www.linkedin.com/in/valentin-olivier-link)
